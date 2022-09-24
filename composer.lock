@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cf11be1244d43535bf2e364cb4a9b26d",
+    "content-hash": "178ec6a20c66cd44e32076c17de9aaf8",
     "packages": [
         {
             "name": "brick/math",
@@ -4845,16 +4845,16 @@
         },
         {
             "name": "qossmic/deptrac-shim",
-            "version": "0.21.1",
+            "version": "0.24.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/qossmic/deptrac-shim.git",
-                "reference": "4374f85b8e9d54c76d00cc5cd803a24dae79f6b1"
+                "reference": "2ff8320c94b4fa5cfeaf08b3f98b5679c959cdd2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/qossmic/deptrac-shim/zipball/4374f85b8e9d54c76d00cc5cd803a24dae79f6b1",
-                "reference": "4374f85b8e9d54c76d00cc5cd803a24dae79f6b1",
+                "url": "https://api.github.com/repos/qossmic/deptrac-shim/zipball/2ff8320c94b4fa5cfeaf08b3f98b5679c959cdd2",
+                "reference": "2ff8320c94b4fa5cfeaf08b3f98b5679c959cdd2",
                 "shasum": ""
             },
             "require": {
@@ -4892,9 +4892,9 @@
             "description": "deptrac phar distribution",
             "support": {
                 "issues": "https://github.com/qossmic/deptrac-shim/issues",
-                "source": "https://github.com/qossmic/deptrac-shim/tree/0.21.1"
+                "source": "https://github.com/qossmic/deptrac-shim/tree/0.24.0"
             },
-            "time": "2022-06-07T06:27:37+00:00"
+            "time": "2022-08-12T10:10:47+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
