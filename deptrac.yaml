@@ -1,0 +1,18 @@
+parameters:
+  paths:
+    - ./app
+  exclude_files:
+    - '#.*Test\.php$#'
+  layers:
+    -
+      name: App
+      collectors:
+        - type: directory
+          value: app/.*   
+  ruleset:
+    App:
+      - TransportationInterface
+    TransportationInterface:
+      - Transportation
+    Transportation:
+      - TransportationInterface
